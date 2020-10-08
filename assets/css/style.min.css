@@ -12364,6 +12364,10 @@ body {
     padding-left: 6%
 }
 
+.brand-container {
+	margin-bottom: 2rem;
+}
+
 .brands .half-content {
     padding-top: 1vw;
     padding-right: 6%;
